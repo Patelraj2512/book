@@ -12,12 +12,12 @@ class ProfileScreen extends StatelessWidget {
         const CircleAvatar(radius: 50, child: Icon(Icons.person, size: 50)),
         const SizedBox(height: 16),
         const Text(
-          'John Doe',
+          'Raj Patel',
           textAlign: TextAlign.center,
           style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
         ),
         const Text(
-          'Student ID: 19CS001',
+          'Student ID: 23DIT050',
           textAlign: TextAlign.center,
           style: TextStyle(color: Colors.grey),
         ),
